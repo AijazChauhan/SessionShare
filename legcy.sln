@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "legcy", "legcy\legcy.csproj", "{E73139A8-C903-4311-B916-66FEC5BACCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAPI", "LegacyAPI\LegacyAPI.csproj", "{A73ABF7B-6208-481E-BA8E-8792C9FEB2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73139A8-C903-4311-B916-66FEC5BACCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73139A8-C903-4311-B916-66FEC5BACCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73139A8-C903-4311-B916-66FEC5BACCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73139A8-C903-4311-B916-66FEC5BACCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73ABF7B-6208-481E-BA8E-8792C9FEB2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73ABF7B-6208-481E-BA8E-8792C9FEB2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73ABF7B-6208-481E-BA8E-8792C9FEB2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73ABF7B-6208-481E-BA8E-8792C9FEB2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA41D6A-56DB-4170-AB99-2BF3F8CD0F83}
+	EndGlobalSection
+EndGlobal
